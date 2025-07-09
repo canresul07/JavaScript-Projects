@@ -1,0 +1,49 @@
+#container{
+
+    font-family:'Times New Roman', Times, serif;
+    text-align: center;
+    background-color: rgb(161, 160, 160);
+    font-size: 120%;
+    border-radius: 10px;
+}
+
+body{
+
+    background-color: white;
+}
+
+
+button{
+    color: black;
+    background-color: rgb(52, 200, 180);
+    font-size: 140%;
+    border-radius: 8px;
+    box-shadow: 5px 5px 5px black;
+    cursor: pointer;
+}
+
+button:hover{
+    background-color: rgb(52, 237, 213);
+}
+
+#input1{
+    font-size: 120%;
+    width: 40%;
+    border-radius: 5px;
+}
+
+#label1{
+
+    font-size: 120%;
+    font-weight: bold;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    
+}
+
+#diceImages img{
+
+    text-align: center;
+    width: 100px;
+    margin: 5px;
+    
+}

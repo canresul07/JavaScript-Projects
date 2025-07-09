@@ -1,0 +1,38 @@
+body{
+    text-align: center;
+    background-color: rgb(59, 57, 57);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}    
+
+#randomButton{
+
+    font-size: 2em;
+    border-radius: 10px;
+    background-color: #0ab9dc;
+    color: hsl(0, 0%, 100%);
+    transition: background-color 0.20s;
+    transition: border-style 0.20s;
+    border-style:solid;
+    border-width: 3px;
+    border-color: rgb(0, 166, 255);
+    box-shadow: 6px 8px 4px rgba(0, 0, 0, 0.789);
+}
+
+
+
+#randomButton:hover{
+
+    background-color: hsl(190, 61%, 33%);
+    /* border-style:hidden; */
+}
+
+#label1{
+
+    font-size: 5em;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+    text-shadow: 6px 8px 4px rgba(0, 0, 0, 0.789);
+    
+
+}
